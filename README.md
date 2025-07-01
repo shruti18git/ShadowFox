@@ -29,7 +29,25 @@ ArrayList usage, CRUD operations, user interaction, modular functions.
 
 ---
 
-3. Bank Account Management System with JUnit Testing
+3. Student Information System with GUI (Java Swing)
+
+**Description**:
+A GUI-based Student Information System using Java Swing that allows users to manage student records efficiently. Admin can add, update, delete, and view student details through a simple and interactive interface.
+
+**Key Features**:
+
+User-friendly GUI (Swing)
+
+Add/Update/Delete/View Student Details
+
+Role-based access for better management
+
+**Key Concepts**:
+Java Swing GUI, event handling, data validation, modular design.
+
+---
+
+4. Bank Account Management System with JUnit Testing
 
 **Description**:  
 This system allows the user to:
@@ -44,7 +62,25 @@ OOP principles, unit testing with JUnit, encapsulation, TDD basics.
 
 ---
 
-4. Library Management System with SQLite
+5. Inventory Management System with Basic GUI
+
+**Description**:
+A basic Inventory Management System featuring a graphical user interface developed using Java Swing. The system allows users to manage inventory by adding, updating, or removing items.
+
+**Key Features**:
+
+GUI-based item management
+
+Add/Update/Delete Inventory Items
+
+Visual feedback through Java Swing
+
+**Key Concepts**:
+Java GUI (Swing), CRUD operations, basic inventory logic, event-driven programming.
+
+---
+
+6. Library Management System with SQLite
 
 **Description**:  
 A console-based Library System with:
@@ -57,7 +93,7 @@ JDBC with SQLite, role-based access, data persistence, SQL integration.
 
 ---
 
-5. Real-Time Chat Application
+7. Real-Time Chat Application
 
 **Description**:  
 A Java-based socket programming project that enables:
